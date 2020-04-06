@@ -1,8 +1,6 @@
-# DH150-DanyaElgebaly
+# Tentative Project title
 example readme
 
 ## h1
 
 ### h2
-
-![Stock image from internet](https://images.app.goo.gl/keZtLVaztdz8het98)
