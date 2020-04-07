@@ -44,8 +44,7 @@ Evaluation:
 - _Severity Rating: 1_
 - For the most part, information is presented concisely. However, it is difficult to find simple pages that should be readily available to users. For example, I will highlight the process of simply visiting the page titled "Welcome to UCLA Library", which ideally would be the homepage of the site. When visitng the homepage, the user will click on the page in the header titled "Research and Teaching Support." Under the "Support for Students" title, there is a link that re-directs students to a welcome page that highlights all of the libraries and their resources. Intuitively, this is an essential page for website visitors and is not easily accessible. As a result, this does pose issues where recall is needed more than recognition.
 
-
-
+![Welcome Issue](Welcome-Issue.png)
 
 ## 7. Flexibility and Efficiency of Use
 - _Severity Rating: 3_
