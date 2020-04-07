@@ -19,14 +19,13 @@ Evaluation:
 
 ## 2. Match Between System and the Real World
 Evaluation:
-- _Severity Rating: 2_ 
+- _Severity Rating: 1_ 
+- The website does a good job of presenting text in a clear way. For the most part, there is no unnecesary jargon and text is readable to individuals of the UCLA community. While there is ambiguous text here and there, information is readable and sophisticated, yet remaining simplistic to adhere to the population of readers.
 
 ## 3. User Control and Freedom
 Evaluation:
 - _Severity Rating: 2_
 - One issue that seems to arise from the homepage is that it re-directs you to the library catalog in order to carry out your search. From there, there are no shortcuts that allow you to access other catalogs for articles, journals, databases, and more. As a result, you must return to the main site, click on the type of medium you want to search for, and re-do your search in order to retrieve the results you want. If a user uses the library website for research purposes, this is important as it helps simplify the complexity an frustration of the search process.
-
-No shortcuts to return from catalog to search for different types of sources
 
 
 ## 4. Consistency and Standards
