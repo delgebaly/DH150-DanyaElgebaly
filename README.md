@@ -6,7 +6,7 @@ With remote resources currently on the rise, the desire for readily available on
 
 ## UCLA Library Website
 
-Brief evaluation/issues you found
+The main issues that I found when visiting the UCLA library website was primarily the ease of navigation and accessibilty of resources. With so much information being presented on the screen, things often get cluttered and it becomes difficult to find exactly what you're looking for. Through simple improvements of the user interface, information and data cleaning, as well as re-organization and re-structuring of certain keywords and phrases, the website can improve its quality of user experience. 
 
 ## 1. Visibility of System Status
 
@@ -67,3 +67,28 @@ Evaluation:
 ## 10. Help and Documentation
 - _Severity Rating: 2_
 - Because of the influx of information provided on the webpage, it is important that help documentation is available in some form or the other. The library website unfortunately does not include any documentation that might help better understanding navigation of resources or information regarding the library. There is the "ask a librarian" feature which helps to solve the issue, but may not be ideal for individuals who need an immediate response, particularly on something simple that may not require a professional. Furthermore, a simple implementation of Frequenty Asked Questions or simple documentation on navigation would help to resolve this issue and improve the user experience. 
+
+
+## UCLA Athletics Website
+
+Issues
+
+## 1. Visibility of System Status
+
+## 2. Match Between System and the Real World
+
+## 3. User Control and Freedom
+
+## 4. Consistency and Standards
+
+## 5. Error Prevention
+
+## 6. Recognition Rather Than Recall
+
+## 7. Flexibility and Efficiency of Use
+
+## 8. Aesthetic and Minimalist Design
+
+## 9. Help Users Recognize, Diagnose, and Recover from Errors
+
+## 10. Help and Documentation
