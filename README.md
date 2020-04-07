@@ -2,7 +2,7 @@
 
 ## DH150 Assignment 01: Heuristic Evaluation by Danya Elgebaly
 
-new students etc. 
+story line
 
 ## UCLA Library Website
 
@@ -11,7 +11,7 @@ Brief evaluation/issues you found
 ## 1. Visibility of System Status
 
 Evaluation:
-- The UCLA website has a lot of important resources to share
+- When visiting the home page, the user is immediately re-directed to a page focused on conducting research and accessing the library catalog. Although there is plenty of information about the library throughout the buttons in the header, the homepage is cluttered with research advice, news, events, hours, and resources. While users are aware of how the system is operating and what information is presented, the primary issue lies in finding that information and condensing content, where possible. 
 
 _Severity Rating:_
 
@@ -29,6 +29,7 @@ Search vs. search bar at the top
 
 ## 5. Error Prevention
 
+research page doesn't give warning that needs UCLA wifi 
 
 ## 6. Recognition Rather Than Recall
 
