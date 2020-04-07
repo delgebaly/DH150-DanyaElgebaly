@@ -41,6 +41,10 @@ Evaluation:
 - One issue that should be addressed when accessing the homepage for research purposes is the accessibility of these resources. Something that often happens when searching for online e-journals is that the UCLA Library website will re-direct the user to the catalog. They will then search for a journal, which will then prompt the user to login to an account they do not have, or will claim that their institution does not have access. Most of these issues are simply caused by the fact that the user is not connected to UCLA Wifi. If there was a note on the research page indicating that you must be connected to UCLA Wifi or as a substitute, you could connect to the UCLA VPN, this would help prevent errors that may arise later. There is a page on the UCLA website that discusses how to connect to the UCLA VPN. Simply linking this page to a button on the research-focused interface would help solve this issue. 
 
 ## 6. Recognition Rather Than Recall
+- _Severity Rating: 1_
+- For the most part, information is presented concisely. However, it is difficult to find simple pages that should be readily available to users. For example, I will highlight the process of simply visiting the page titled "Welcome to UCLA Library", which ideally would be the homepage of the site. When visitng the homepage, the user will click on the page in the header titled "Research and Teaching Support." Under the "Support for Students" title, there is a link that re-directs students to a welcome page that highlights all of the libraries and their resources. Intuitively, this is an essential page for website visitors and is not easily accessible. As a result, this does pose issues where recall is needed more than recognition.
+
+
 
 
 ## 7. Flexibility and Efficiency of Use
