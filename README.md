@@ -34,6 +34,7 @@ Evaluation:
 - _Severity Rating: 3_
 - A large issue that seems to arise throughout the website is the meaning of "search" vs. "research". We have discussed how the homepage seems to highlight research as the primary focus. However, the icon in the header next to the home button is a "search" page. This is ambiguous as the user is left to wonder whether this entails searching the library catalog or the resources available or potentially, something else. In addition, on the header bar above that, there is another search bar titled "Site Search". While these all might mean the same thing on a conceptual level, there should be a better way to communicate what exacty the user is searching for. 
 
+![Search Issue](Search-Issue.png)
 
 
 ## 5. Error Prevention
