@@ -59,8 +59,7 @@ Evaluation:
 - _Severity Rating: 3_
 - When using the site search bar, users are prompted to enter keywords in order to simplify their findings. To test for system understanding, I misspelt "resources" and searched using the word "resorces." Instead of textually indicating that no results were found, I was only presented with a blank screen underneath the search which is not very constructive to the user. A simple fix is to just indicate that no search results were found or to prompt the user to try again.
 
-
-
+![Search Results](Search-Results.png)
 
 ## 10. Help and Documentation
 - _Severity Rating: 2_
