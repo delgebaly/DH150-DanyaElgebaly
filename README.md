@@ -1,4 +1,4 @@
-# Application Re-Design Heuristic Evaluation
+# Navigating UCLA: For Newcomers
 
 ## DH150 Assignment 01: Heuristic Evaluation by Danya Elgebaly
 
@@ -48,7 +48,7 @@ research page doesn't give warning that needs UCLA wifi
 - _Severity Rating: 3_
 - The primary issue that seems to arise with respect to flexibility is the lack of simple shortcuts. When visiting the UCLA Library webpage, there is a high probability that users will want to navigate through information about specific libraries such as location, hours, amenities, etc. As a result, it becomes increasingly difficult to do so when all the names are just listed on one page, making the user scroll through multiple pages on the "locations" page to find the libraries they are searching for. A potential fix for more experienced users is to simply implement a drop down menu when hovering over the locations button. This would allow users to simply click on one of the locations to be redirected to that particular page. Attached is a screenshot of the bottom of the first page of locations.
 
-
+![Locations Issue](Locations-Issue.png)
 
 ## 8. Aesthetic and Minimalist Design
 
