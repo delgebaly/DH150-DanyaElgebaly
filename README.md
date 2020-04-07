@@ -37,8 +37,8 @@ Evaluation:
 
 
 ## 5. Error Prevention
-
-research page doesn't give warning that needs UCLA wifi 
+- _Severity Rating: 2_
+- One issue that should be addressed when accessing the homepage for research purposes is the accessibility of these resources. Something that often happens when searching for online e-journals is that the UCLA Library website will re-direct the user to the catalog. They will then search for a journal, which will then prompt the user to login to an account they do not have, or will claim that their institution does not have access. Most of these issues are simply caused by the fact that the user is not connected to UCLA Wifi. If there was a note on the research page indicating that you must be connected to UCLA Wifi or as a substitute, you could connect to the UCLA VPN, this would help prevent errors that may arise later. There is a page on the UCLA website that discusses how to connect to the UCLA VPN. Simply linking this page to a button on the research-focused interface would help solve this issue. 
 
 ## 6. Recognition Rather Than Recall
 
@@ -50,15 +50,18 @@ research page doesn't give warning that needs UCLA wifi
 ![Locations Issue](Locations-Issue.png)
 
 ## 8. Aesthetic and Minimalist Design
+- _Severity Rating: 2_
+- The homepage of UCLA Library aligns well with the UCLA brand, particularly using the logo and school colors. However, the information presented on the homepage is very cluttered and does not possess aesthetic and minimalist design. Information is categorized into little boxes, which makes information more readable, but also overloads the page with too much. As a result, potentially re-visiting the design of this homepage could allow for a re-organization of information that could help improve the layout and simplify the aesthetic of the design.  
 
-- Busy, boxy design
+![Library Homepage](Lib-HomePage.png)
 
 ## 9. Help Users Recognize, Diagnose, and Recover from Errors
+- _Severity Rating: 3_
+- When using the site search bar, users are prompted to enter keywords in order to simplify their findings. To test for system understanding, I misspelt "resources" and searched using the word "resorces." Instead of textually indicating that no results were found, I was only presented with a blank screen underneath the search which is not very constructive to the user. A simple fix is to just indicate that no search results were found or to prompt the user to try again.
+
+
 
 
 ## 10. Help and Documentation
 - _Severity Rating: 2_
 - Because of the influx of information provided on the webpage, it is important that help documentation is available in some form or the other. The library website unfortunately does not include any documentation that might help better understanding navigation of resources or information regarding the library. There is the "ask a librarian" feature which helps to solve the issue, but may not be ideal for individuals who need an immediate response, particularly on something simple that may not require a professional. Furthermore, a simple implementation of Frequenty Asked Questions or simple documentation on navigation would help to resolve this issue and improve the user experience. 
-
-
-No immediate help documentation, ask a librarian
