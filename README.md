@@ -34,7 +34,7 @@ Evaluation:
 - _Severity Rating: 3_
 - A large issue that seems to arise throughout the website is the meaning of "search" vs. "research". We have discussed how the homepage seems to highlight research as the primary focus. However, the icon in the header next to the home button is a "search" page. This is ambiguous as the user is left to wonder whether this entails searching the library catalog or the resources available or potentially, something else. In addition, on the header bar above that, there is another search bar titled "Site Search". While these all might mean the same thing on a conceptual level, there should be a better way to communicate what exacty the user is searching for. 
 
-![Search Issue](Search-Issue.png)
+![Search Issue2](Search-Issue.png)
 
 
 ## 5. Error Prevention
@@ -45,8 +45,10 @@ research page doesn't give warning that needs UCLA wifi
 
 
 ## 7. Flexibility and Efficiency of Use
+- _Severity Rating: 3_
+- The primary issue that seems to arise with respect to flexibility is the lack of simple shortcuts. When visiting the UCLA Library webpage, there is a high probability that users will want to navigate through information about specific libraries such as location, hours, amenities, etc. As a result, it becomes increasingly difficult to do so when all the names are just listed on one page, making the user scroll through multiple pages on the "locations" page to find the libraries they are searching for. A potential fix for more experienced users is to simply implement a drop down menu when hovering over the locations button. This would allow users to simply click on one of the locations to be redirected to that particular page. Attached is a screenshot of the bottom of the first page of locations.
 
-- locations drop down
+
 
 ## 8. Aesthetic and Minimalist Design
 
