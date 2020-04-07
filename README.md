@@ -4,14 +4,19 @@
 
 Motivation + description
 
-## Information about the web/app for the first heuristic evaluation
+## UCLA Library
 
 Brief evaluation/issues you found
 
 ## 1. Visibility of System Status
+- Always keep users informed about what's going on.
+- Provide appropriate feedback within reasonable time.
 
 
 ## 2. Match Between System and the Real World
+- Speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. 
+- Follow real-world conventions, making information appear in a natural and logical order. 
+
 
 
 ## 3. User Control and Freedom
