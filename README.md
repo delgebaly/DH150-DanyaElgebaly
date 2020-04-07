@@ -11,7 +11,10 @@ Brief evaluation/issues you found
 ## 1. Visibility of System Status
 
 Evaluation:
-- When visiting the home page, the user is immediately re-directed to a page focused on conducting research and accessing the library catalog. Although there is plenty of information about the library throughout the buttons in the header, the homepage is cluttered with research advice, news, events, hours, and resources. While users are aware of how the system is operating and what information is presented, the primary issue lies in finding that information and condensing content, where possible. 
+- When visiting the home page, the user is immediately re-directed to a page focused on conducting research and accessing the library catalog. Although there is plenty of information about the library throughout the buttons in the header, the homepage is cluttered with research advice, news, events, hours, and resources. While users are aware of how the system is operating and what information is presented, the primary issue lies in finding that information and condensing content, where possible.
+
+![Library Homepage](Lib-HomePage.png)
+
 - _Severity Rating:_
 
 ## 2. Match Between System and the Real World
