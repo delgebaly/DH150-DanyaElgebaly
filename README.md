@@ -2,7 +2,7 @@
 
 ## DH150 Assignment 01: Heuristic Evaluation by Danya Elgebaly
 
-story line
+With remote resources currently on the rise, the desire for readily available online information has been increasing exponentially. The month of April is a crucial time for High School Seniors who are debating what and where to study for the next four years of their lives. With the cancellation of significant events such as Bruin Day, prospective students are turning towards websites, social media, and various sorts of online information to make their crucial decisions. As a result, I have chosen to compile some of UCLA's most visited websites and perform heuristic evaluations for User Experience practices that could serve to help present information in the clearest and most concise way.
 
 ## UCLA Library Website
 
