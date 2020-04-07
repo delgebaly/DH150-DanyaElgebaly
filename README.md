@@ -58,5 +58,8 @@ research page doesn't give warning that needs UCLA wifi
 
 
 ## 10. Help and Documentation
+- _Severity Rating: 2_
+- Because of the influx of information provided on the webpage, it is important that help documentation is available in some form or the other. The library website unfortunately does not include any documentation that might help better understanding navigation of resources or information regarding the library. There is the "ask a librarian" feature which helps to solve the issue, but may not be ideal for individuals who need an immediate response, particularly on something simple that may not require a professional. Furthermore, a simple implementation of Frequenty Asked Questions or simple documentation on navigation would help to resolve this issue and improve the user experience. 
 
-- No immediate help documentation, ask a librarian
+
+No immediate help documentation, ask a librarian
