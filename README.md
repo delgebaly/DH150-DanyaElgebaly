@@ -5,11 +5,12 @@
 With remote resources currently on the rise, the desire for readily available online information has been increasing exponentially. The month of April is a crucial time for High School Seniors who are debating what and where to study for the next four years of their lives. With the cancellation of significant events such as Bruin Day, prospective students are turning towards websites, social media, and various sorts of online information to make their crucial decisions. As a result, I have chosen to compile some of UCLA's most visited websites and perform heuristic evaluations for User Experience practices that could serve to help present information in the clearest and most concise way.
 
 ## UCLA Library Website
+[UCLA Library](http://library.ucla.edu)
 
 The main issues that I found when visiting the UCLA library website was primarily the ease of navigation and accessibilty of resources. With so much information being presented on the screen, things often get cluttered and it becomes difficult to find exactly what you're looking for. Through simple improvements of the user interface, information and data cleaning, as well as re-organization and re-structuring of certain keywords and phrases, the website can improve its quality of user experience. 
 
-## 1. Visibility of System Status
-
+## 1. Visibility of System Status 
+Re-do this one
 Evaluation:
 - _Severity Rating: 2_ 
 - When visiting the home page, the user is immediately re-directed to a page focused on conducting research and accessing the library catalog. Although there is plenty of information about the library throughout the buttons in the header, the homepage is cluttered with research advice, news, events, hours, and resources. While users are aware of how the system is operating and what information is presented, the primary issue lies in finding that information and condensing content, where possible.
@@ -74,21 +75,43 @@ Evaluation:
 Issues
 
 ## 1. Visibility of System Status
+- _Severity Rating: 1_
+- The UCLA Athletics website does a good job of communicating visibility of system status. When users navigate through the website, it is coherent how the website is working or not. In particular, the signaling produced when a button has been clicked as well as loading a new page, are two particular examples of good UX design on this site. I've attached the screen that indicates a page is loading as it seems to be quite simple, but also keeps a high level aesthetic appeal, with respect to UCLA's branding.
+
+
+
+
 
 ## 2. Match Between System and the Real World
+- _Severity Rating: 1_
+- The UCLA Athletics website does a good job of ensuring that information is communicated through and understandable way. 
+- Pac 12 logo
 
 ## 3. User Control and Freedom
+- _Severity Rating: 1_
+- Transition between sports
 
 ## 4. Consistency and Standards
+- _Severity Rating: 1_
+- "Becoming a bruin?" 
 
 ## 5. Error Prevention
+- _Severity Rating: 1_
 
 ## 6. Recognition Rather Than Recall
+- _Severity Rating: 1_
 
 ## 7. Flexibility and Efficiency of Use
+- - _Severity Rating: 1_
+- Lots of shortcuts - cluttered
 
 ## 8. Aesthetic and Minimalist Design
+- _Severity Rating: 1_
+- Well branded, information cluttering
+- Reorganization of ticket page
 
 ## 9. Help Users Recognize, Diagnose, and Recover from Errors
+- _Severity Rating: 1_
 
 ## 10. Help and Documentation
+- _Severity Rating: 1_
