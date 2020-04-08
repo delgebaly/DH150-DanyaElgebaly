@@ -2,7 +2,7 @@
 
 ## DH150 Assignment 01: Heuristic Evaluation by Danya Elgebaly
 
-With remote resources currently on the rise, the desire for readily available online information has been increasing exponentially. The month of April is a crucial time for High School Seniors who are debating what and where to study for the next four years of their lives. With the cancellation of significant events such as Bruin Day, prospective students are turning towards websites, social media, and various sorts of online information to make their crucial decisions. As a result, I have chosen to compile some of UCLA's most visited websites and perform heuristic evaluations for user experience practices that could serve to help present information in the clearest and most concise way.
+With remote resources currently on the rise, the desire for readily available online information has been increasing exponentially. The month of April is a crucial time for High School Seniors who are debating what and where to study for the next four years of their lives. With the cancellation of significant events such as Bruin Day, prospective students are turning towards websites, social media, and various sorts of online information to make their crucial college choice decisions. As a result, I have chosen to compile some of UCLA's most visited websites and perform heuristic evaluations for user experience practices that could serve to help present information in the clearest and most concise way.
 
 ## UCLA Library Website
 [UCLA Library](http://library.ucla.edu)
@@ -33,8 +33,7 @@ Explanation:
 
 Evaluation:
 - _Severity Rating: 2_
-- One issue that seems to arise from the homepage is that it re-directs you to the library catalog in order to carry out your search. From there, there are no shortcuts that allow you to access other catalogs for articles, journals, databases, and more. As a result, you must return to the main site, click on the type of medium you want to search for, and re-do your search in order to retrieve the results you want. If a user uses the library website for research purposes, this is important as it helps simplify the complexity an frustration of the search process.
-
+- One issue that seems to arise from the homepage is that it re-directs you to the library catalog in order to carry out your search. From there, there are no shortcuts that allow you to access other catalogs for articles, journals, databases, and more. As a result, you must return to the main site, click on the type of medium you want to search for, and re-do your search in order to retrieve the results you want. If a user uses the library website for research purposes, this is important as it helps simplify the complexity and frustration of the search process.
 
 ## 4. Consistency and Standards
 Explanation:
@@ -60,7 +59,7 @@ Explanation:
 - Users should be able to simply recognize functions easily rather than have to recall how to perform a particular action on the site.
 
 Evaluation:
-- _Severity Rating: 1_
+- _Severity Rating: 2_
 - For the most part, information is presented concisely. However, it is difficult to find simple pages that should be readily available to users. For example, I will highlight the process of simply visiting the page titled "Welcome to UCLA Library", which ideally would be the homepage of the site. When visitng the homepage, the user will click on the page in the header titled "Research and Teaching Support." Under the "Support for Students" title, there is a link that re-directs students to a welcome page that highlights all of the libraries and their resources. Intuitively, this is an essential page for website visitors and is not easily accessible. As a result, this does pose issues where recall is needed more than recognition.
 
 ![Welcome Issue](Welcome-Issue.png)
@@ -81,7 +80,7 @@ Explanation:
 
 Evaluation:
 - _Severity Rating: 2_
-- The homepage of UCLA Library aligns well with the UCLA brand, particularly using the logo and school colors. However, the information presented on the homepage is very cluttered and does not possess aesthetic and minimalist design. Information is categorized into little boxes, which makes information more readable, but also overloads the page with too much. As a result, potentially re-visiting the design of this homepage could allow for a re-organization of information that could help improve the layout and simplify the aesthetic of the design.  
+- The homepage of UCLA Library aligns well with the UCLA brand, particularly using the logo and school colors. However, the information presented on the homepage is very cluttered and does not possess aesthetic and minimalist design. Information is categorized into little boxes, which makes information more readable, but also overloads the page. As a result, potentially re-visiting the design of this homepage could allow for a re-organization of information that could improve the layout and simplify the aesthetic of the design.  
 
 ![Library Homepage](Lib-HomePage.png)
 
@@ -104,10 +103,11 @@ Evaluation:
 - Because of the influx of information provided on the webpage, it is important that help documentation is available in some form or the other. The library website unfortunately does not include any documentation that might help better understanding navigation of resources or information regarding the library. There is the "ask a librarian" feature which helps to solve the issue, but may not be ideal for individuals who need an immediate response, particularly on something simple that may not require a professional. Furthermore, a simple implementation of Frequenty Asked Questions or simple documentation on navigation would help to resolve this issue and improve the user experience. 
 
 
+
 ## UCLA Athletics Website
 [UCLA Athletics](http://uclabruins.com)
 
-The next website I chose to analyze was the UCLA Athletics website which contains information about all the NCAA sports at UCLA, game schedules, news, and instructions on how to buy tickets. The main issues that I seemingly came across was finding the right information efficiently and being able to effectively navigate the site seamlessly. There were lots of ambiguities as well as an overload of information, that made it difficult to find information easily. Through certain improvements using analysis of the ten usability heuristics, the user experience can be improved. 
+The next website I chose to analyze was the UCLA Athletics website which contains information about all the NCAA sports at UCLA, game schedules, news, and instructions on how to buy tickets. The main issues that I seemingly came across was finding the right information efficiently and being able to effectively navigate the site seamlessly. There were lots of ambiguities as well as an overload of information that made it difficult to find information easily. Through certain improvements using analysis of the ten usability heuristics, the user experience can be improved. 
 
 !(AthleticsWebsite)(AthleticsWeb.png)
 
@@ -145,8 +145,7 @@ Explanation:
 
 Evaluation:
 - _Severity Rating: 2_
-- One issue that seems to arise in particular is some ambiguity in language that can remain unclear to the user. If the user is a prospective undergraduate at UCLA seeking to buy a season sports pass or tickets for a particular game, they may visit the "Becoming a Bruin" page which is right under the title "General Information." However, this page is actually for the purpose of recruiting athletes and how to go about that process as a high school senior. This is an easy fix because it could be renamed to "UCLA Recruiting" or anything that indicates this is athletic-specific.
-
+- One issue that seems to arise in particular is some ambiguity in language that can remain unclear to the user. If the user is a prospective undergraduate at UCLA seeking to buy a season sports pass or tickets for a particular game, they may visit the "Becoming a Bruin" page which is right under the title "General Information." However, this page is actually for the purpose of recruiting athletes and how to go about that process as a high school senior. This is an easy fix because it could be renamed to "UCLA Recruiting" or anything that indicates this is athlete-specific.
 
 ## 5. Error Prevention
 Explanation:
@@ -162,7 +161,7 @@ Explanation:
 
 Evaluation:
 - _Severity Rating: 3_
-- One important observation to note on the "Tickets" page of the website is its lack of organization that enforces users' recall ability over recognition. This is primarily because when visitors go to the ticket page, they will navigate through the sports and click on the first one they are interested in purchasing tickets for. However, there are two buttons at the bottom of the page: one for UCLA Students, and one for UCLA Faculty and Staff. Because these buttons were not located towards the top of the screen, students most likely are being re-directed towards ticket pages for visitors, as opposed to students. This makes it rather annoying for the user and does not provide full visibility.
+- One important observation to note on the "Tickets" page of the website is its lack of organization that enforces users' recall ability over recognition. This is primarily because when visitors go to the ticket page, they will navigate through the sports and click on the first one they are interested in purchasing tickets for. However, there are two buttons at the bottom of the page: one for UCLA Students, and one for UCLA Faculty and Staff. Because these buttons are not located towards the top of the screen, students most likely are being re-directed towards ticket pages for visitors, as opposed to students. This makes it rather annoying for the user and does not provide full efficient visibility.
 
 ![StudentsFacultyStaff](StudentsFacultyStaff.png)
 
