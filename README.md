@@ -103,7 +103,7 @@ Issues
 - _Severity Rating: 3_
 - One important observation to note on the "Tickets" page of the website is its lack of organization that enforces users' recall ability over recognition. This is primarily because when visitors go to the ticket page, they will navigate through the sports and click on the first one they are interested in purchasing tickets for. However, there are two buttons at the bottom of the page: one for UCLA Students, and one for UCLA Faculty and Staff. Because these buttons were not located towards the top of the screen, students most likely are being re-directed towards ticket pages for visitors, as opposed to students. This makes it rather annoying for the user and does not provide full visibility.
 
-
+![StudentsFacultyStaff](StudentsFacultyStaff.png)
 
 ## 7. Flexibility and Efficiency of Use
 - _Severity Rating: 2_
@@ -112,12 +112,14 @@ Issues
 ![DropDown](DropDown.png)
 
 ## 8. Aesthetic and Minimalist Design
-- _Severity Rating: 1_
-- Well branded, information cluttering
-- Reorganization of ticket page
+- _Severity Rating: 2_
+- While the website does maintain a fairly minimalistic design, information does seem to be cluttered and certain design choices are non-intuitive. In particular, the website seems to be well-branded containing UCLA's blue and gold colors throughout. However, the way these colors may vary through different buttons is not as clear. In particular, the ticket page has a subsection regarding season ticket renewal, but some of the buttons are yellow and some are blue. Is this to signify a different type of ticket, information, etc.? It is unclear to the user. 
+
+![ButtonColor]()
 
 ## 9. Help Users Recognize, Diagnose, and Recover from Errors
 - _Severity Rating: 1_
 
 ## 10. Help and Documentation
-- _Severity Rating: 1_
+- _Severity Rating: 2_
+- The website does not include any help or documentation regarding navigation of the website or purely content presented on the website. This could be simply implemented by creating an FAQ forum, or help documentation that might improve understanding of navigating the website. 
