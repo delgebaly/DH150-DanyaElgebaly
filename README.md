@@ -7,16 +7,14 @@ With remote resources currently on the rise, the desire for readily available on
 ## UCLA Library Website
 [UCLA Library](http://library.ucla.edu)
 
-The main issues that I found when visiting the UCLA library website was primarily the ease of navigation and accessibilty of resources. With so much information being presented on the screen, things often get cluttered and it becomes difficult to find exactly what you're looking for. Through simple improvements of the user interface, information and data cleaning, as well as re-organization and re-structuring of certain keywords and phrases, the website can improve its quality of user experience. 
-
-## 1. Visibility of System Status 
-Re-do this one
-Evaluation:
-- _Severity Rating: 2_ 
-- When visiting the home page, the user is immediately re-directed to a page focused on conducting research and accessing the library catalog. Although there is plenty of information about the library throughout the buttons in the header, the homepage is cluttered with research advice, news, events, hours, and resources. While users are aware of how the system is operating and what information is presented, the primary issue lies in finding that information and condensing content, where possible.
+The UCLA Library website serves a resource to inform students on library hours, resources, research, navigation, and various other important information. The main issues that I found when visiting the UCLA library website was primarily the ease of navigation and accessibilty of resources. With so much information being presented on the screen, things often get cluttered and it becomes difficult to find exactly what you're looking for. Through simple improvements of the user interface, information and data cleaning, as well as re-organization and re-structuring of certain keywords and phrases, the website can improve its quality of user experience. 
 
 ![Library Homepage](Lib-HomePage.png)
 
+## 1. Visibility of System Status 
+Evaluation:
+- _Severity Rating: 2_ 
+- When visiting the home page, the user is immediately re-directed to a page focused on conducting research and accessing the library catalog. Although there is plenty of information about the library throughout the buttons in the header, the homepage is cluttered with research advice, news, events, hours, and resources. While users are aware of how the system is operating and what information is presented, the primary issue lies in finding that information and condensing content, where possible. 
 
 ## 2. Match Between System and the Real World
 Evaluation:
@@ -74,6 +72,8 @@ Evaluation:
 [UCLA Athletics](http://uclabruins.com)
 
 The next website I chose to analyze was the UCLA Athletics website which contains information about all the NCAA sports at UCLA, game schedules, news, and instructions on how to buy tickets. The main issues that I seemingly came across was finding the right information efficiently and being able to effectively navigate the site seamlessly. There were lots of ambiguities as well as an overload of information, that made it difficult to find information easily. Through certain improvements using analysis of the ten usability heuristics, the user experience can be improved. 
+
+!(AthleticsWebsite)
 
 ## 1. Visibility of System Status
 - _Severity Rating: 1_
