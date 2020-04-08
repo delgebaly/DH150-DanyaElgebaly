@@ -100,14 +100,16 @@ Issues
 - _Severity Rating: 1_
 
 ## 6. Recognition Rather Than Recall
-- _Severity Rating: 1_
+- _Severity Rating: 3_
+- One important observation to note on the "Tickets" page of the website is its lack of organization that enforces users' recall ability over recognition. This is primarily because when visitors go to the ticket page, they will navigate through the sports and click on the first one they are interested in purchasing tickets for. However, there are two buttons at the bottom of the page: one for UCLA Students, and one for UCLA Faculty and Staff. Because these buttons were not located towards the top of the screen, students most likely are being re-directed towards ticket pages for visitors, as opposed to students. This makes it rather annoying for the user and does not provide full visibility.
+
+
 
 ## 7. Flexibility and Efficiency of Use
 - _Severity Rating: 2_
 - The UCLA Athletics website manages to create shortcuts for users to access pages easily. However, many of these shortcuts are cluttered under a "menu" page, which makes it difficult to find information easily. In particular, the header at the top of the page includes two buttons that contain two different drop-down menus, one for sports and one for tickets. At the far right, there is a "menu" button that contains a drop-down menu for sports and tickets (again), and the rest of the menu items. Allowing for these shortcuts makes it easier for users to automatically visit the sports and tickets pages, but also makes it increasingly difficult to find the rest of the items as they have to manually navigate through the menu. 
 
-
-
+![DropDown](DropDown.png)
 
 ## 8. Aesthetic and Minimalist Design
 - _Severity Rating: 1_
