@@ -103,8 +103,11 @@ Issues
 - _Severity Rating: 1_
 
 ## 7. Flexibility and Efficiency of Use
-- - _Severity Rating: 1_
-- Lots of shortcuts - cluttered
+- _Severity Rating: 2_
+- The UCLA Athletics website manages to create shortcuts for users to access pages easily. However, many of these shortcuts are cluttered under a "menu" page, which makes it difficult to find information easily. In particular, the header at the top of the page includes two buttons that contain two different drop-down menus, one for sports and one for tickets. At the far right, there is a "menu" button that contains a drop-down menu for sports and tickets (again), and the rest of the menu items. Allowing for these shortcuts makes it easier for users to automatically visit the sports and tickets pages, but also makes it increasingly difficult to find the rest of the items as they have to manually navigate through the menu. 
+
+
+
 
 ## 8. Aesthetic and Minimalist Design
 - _Severity Rating: 1_
