@@ -80,21 +80,21 @@ Issues
 
 ![Loading Logo](Loading-Logo.png)
 
-
 ## 2. Match Between System and the Real World
-- _Severity Rating: 1_
+- _Severity Rating: 3_
 - The UCLA Athletics website contains lots of textual information that uses language that is clear and concise. However, there are certain buttons and logos that remain ambiguous to the user and could be better contextualized. In particular, the header at the top of the homepage includes a PAC12 sticker that would supposedly re-direct users to a website for PAC12 sports. Upon clicking on the logo, users are re-directed back to the homepage which is just where they were. Here there is a mismatch between the system and the real world as the system does not seem to be communicating what the user should be seeing. 
 
-
-
+![Pac12_Logo](PAC12-Example.png)
 
 ## 3. User Control and Freedom
-- _Severity Rating: 1_
-- Transition between sports
+- _Severity Rating: 2_
+- While users hold the control of going back and forth through visited pages via their web browser, I think its important to note the lack of ability to navigate certain pages consistently on the site. In particular, upon visiting the "Sports" page, users are able to click on any sport they would like to. Yet, in order to visit another specific sports site, they must revisit the header at the top and click on a different sport. It would be efficient to implement a feature that indicated "Next Page: Basketball" (for example) at the bottom of the page, which would allow users to scroll through the sports pages seamlessly in alphabetical order. 
+
 
 ## 4. Consistency and Standards
-- _Severity Rating: 1_
-- "Becoming a bruin?" 
+- _Severity Rating: 2_
+- One issue that seems to arise in particular is some ambiguity in language that can remain unclear to the user. If the user is a prospective undergraduate at UCLA seeking to buy a season sports pass or tickets for a particular game, they may visit the "Becoming a Bruin" page which is right under the title "General Information." However, this page is actually for the purpose of recruiting athletes and how to go about that process as a high school senior. This is an easy fix because it could be renamed to "UCLA Recruiting" or anything that indicates this is athletic-specific.
+
 
 ## 5. Error Prevention
 - _Severity Rating: 1_
