@@ -73,7 +73,7 @@ Evaluation:
 
 The next website I chose to analyze was the UCLA Athletics website which contains information about all the NCAA sports at UCLA, game schedules, news, and instructions on how to buy tickets. The main issues that I seemingly came across was finding the right information efficiently and being able to effectively navigate the site seamlessly. There were lots of ambiguities as well as an overload of information, that made it difficult to find information easily. Through certain improvements using analysis of the ten usability heuristics, the user experience can be improved. 
 
-!(AthleticsWebsite)
+!(AthleticsWebsite)(AthleticsWeb.png)
 
 ## 1. Visibility of System Status
 - _Severity Rating: 1_
