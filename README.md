@@ -115,10 +115,13 @@ Issues
 - _Severity Rating: 2_
 - While the website does maintain a fairly minimalistic design, information does seem to be cluttered and certain design choices are non-intuitive. In particular, the website seems to be well-branded containing UCLA's blue and gold colors throughout. However, the way these colors may vary through different buttons is not as clear. In particular, the ticket page has a subsection regarding season ticket renewal, but some of the buttons are yellow and some are blue. Is this to signify a different type of ticket, information, etc.? It is unclear to the user. 
 
-![ButtonColor]()
+![ButtonColor](ButtonColor.png)
 
 ## 9. Help Users Recognize, Diagnose, and Recover from Errors
 - _Severity Rating: 1_
+- The website does help users recognize, diagnose, and recover from errors. One of the examples I came across when navigating the site was the message presented for disabling adblockers in order to allow the website to run. I think this message, upon other various error messages on the site, helps to communicate clearly what the site wants from the user in order to properly operate. 
+
+![Adblocker]
 
 ## 10. Help and Documentation
 - _Severity Rating: 2_
