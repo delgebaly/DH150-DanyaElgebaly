@@ -83,8 +83,10 @@ Issues
 
 ## 2. Match Between System and the Real World
 - _Severity Rating: 1_
-- The UCLA Athletics website does a good job of ensuring that information is communicated through and understandable way. 
-- Pac 12 logo
+- The UCLA Athletics website contains lots of textual information that uses language that is clear and concise. However, there are certain buttons and logos that remain ambiguous to the user and could be better contextualized. In particular, the header at the top of the homepage includes a PAC12 sticker that would supposedly re-direct users to a website for PAC12 sports. Upon clicking on the logo, users are re-directed back to the homepage which is just where they were. Here there is a mismatch between the system and the real world as the system does not seem to be communicating what the user should be seeing. 
+
+
+
 
 ## 3. User Control and Freedom
 - _Severity Rating: 1_
