@@ -143,6 +143,7 @@ Evaluation:
 Explanation:
 - The user should not have to question the meaning of certain words as they should remain consistent throughout all pages of the website.
 
+Evaluation:
 - _Severity Rating: 2_
 - One issue that seems to arise in particular is some ambiguity in language that can remain unclear to the user. If the user is a prospective undergraduate at UCLA seeking to buy a season sports pass or tickets for a particular game, they may visit the "Becoming a Bruin" page which is right under the title "General Information." However, this page is actually for the purpose of recruiting athletes and how to go about that process as a high school senior. This is an easy fix because it could be renamed to "UCLA Recruiting" or anything that indicates this is athletic-specific.
 
