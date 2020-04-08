@@ -71,8 +71,9 @@ Evaluation:
 
 
 ## UCLA Athletics Website
+[UCLA Athletics](http://uclabruins.com)
 
-Issues
+The next website I chose to analyze was the UCLA Athletics website which contains information about all the NCAA sports at UCLA, game schedules, news, and instructions on how to buy tickets. The main issues that I seemingly came across was finding the right information efficiently and being able to effectively navigate the site seamlessly. There were lots of ambiguities as well as an overload of information, that made it difficult to find information easily. Through certain improvements using analysis of the ten usability heuristics, the user experience can be improved. 
 
 ## 1. Visibility of System Status
 - _Severity Rating: 1_
@@ -90,7 +91,6 @@ Issues
 - _Severity Rating: 2_
 - While users hold the control of going back and forth through visited pages via their web browser, I think its important to note the lack of ability to navigate certain pages consistently on the site. In particular, upon visiting the "Sports" page, users are able to click on any sport they would like to. Yet, in order to visit another specific sports site, they must revisit the header at the top and click on a different sport. It would be efficient to implement a feature that indicated "Next Page: Basketball" (for example) at the bottom of the page, which would allow users to scroll through the sports pages seamlessly in alphabetical order. 
 
-
 ## 4. Consistency and Standards
 - _Severity Rating: 2_
 - One issue that seems to arise in particular is some ambiguity in language that can remain unclear to the user. If the user is a prospective undergraduate at UCLA seeking to buy a season sports pass or tickets for a particular game, they may visit the "Becoming a Bruin" page which is right under the title "General Information." However, this page is actually for the purpose of recruiting athletes and how to go about that process as a high school senior. This is an easy fix because it could be renamed to "UCLA Recruiting" or anything that indicates this is athletic-specific.
@@ -98,6 +98,7 @@ Issues
 
 ## 5. Error Prevention
 - _Severity Rating: 1_
+- Because the website does not include a login account and ticket purchasing typically redirects users to a different website, I did not come across any error prevention messages or errors that could have arisen throughout navigation. 
 
 ## 6. Recognition Rather Than Recall
 - _Severity Rating: 3_
@@ -121,7 +122,7 @@ Issues
 - _Severity Rating: 1_
 - The website does help users recognize, diagnose, and recover from errors. One of the examples I came across when navigating the site was the message presented for disabling adblockers in order to allow the website to run. I think this message, upon other various error messages on the site, helps to communicate clearly what the site wants from the user in order to properly operate. 
 
-![Adblocker]
+![Adblocker](Adblocker.png)
 
 ## 10. Help and Documentation
 - _Severity Rating: 2_
