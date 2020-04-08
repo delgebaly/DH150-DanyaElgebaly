@@ -78,8 +78,7 @@ Issues
 - _Severity Rating: 1_
 - The UCLA Athletics website does a good job of communicating visibility of system status. When users navigate through the website, it is coherent how the website is working or not. In particular, the signaling produced when a button has been clicked as well as loading a new page, are two particular examples of good UX design on this site. I've attached the screen that indicates a page is loading as it seems to be quite simple, but also keeps a high level aesthetic appeal, with respect to UCLA's branding.
 
-
-
+![Loading Logo](Loading-Logo.png)
 
 
 ## 2. Match Between System and the Real World
