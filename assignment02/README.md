@@ -15,10 +15,27 @@ As a result, I put these three heuristics to the test by conducting a usability 
 These tasks should illuminate some of the heuristic issues that arose during my evaluation, particularly Visibility of System Status, Flexibility and Efficiency of Use, and Consistency and Standards, respectively. 
 
 ### Methodology
+The usability test was conducted in a quiet living room. The participant sat side by side with the moderator. The usability test was conducted on a Macbook Pro Retina 2015, using Camtasia 2019. The procedure will go as follows:
+1) The moderator (me) introduces the usability test to the participant.
+2) The participant is asked to read and signed an informed consent form.
+3) The participant is asked simple background questions regarding their use of the website. 
+4) The participant will fill out a simple pre-test questionnaire about the visual design of the website. 
+5) The participant will complete the three tasks previously described.
+6) The participant will complete a post-test questionnaire regarding the tasks using the following metrics:
+  - Effectiveness
+  - Learnability
+  - Efficiency
+  - Usefulness
+ 7) The participant then was asked to select five product adjectives from a list of 18 product satisfaction cards that described their emotions.
+ 8) The participant then was asked to complete a confidential demographics survey. 
+
 
 ### Test Materials
-The usability materials [here](https://forms.gle/4yjvPWyq9nv8qimE8)
+The usability materials can be found [here](https://forms.gle/4yjvPWyq9nv8qimE8).
 
 ### Video Link
+The video link can be found ....
 
 ### Reflection
+
+Reflection
