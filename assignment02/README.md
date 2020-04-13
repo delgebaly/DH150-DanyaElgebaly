@@ -22,10 +22,10 @@ The usability test was conducted in a quiet living room. The participant sat sid
 4) The participant will fill out a simple pre-test questionnaire about the visual design of the website. 
 5) The participant will complete the three tasks previously described.
 6) The participant will complete a post-test questionnaire regarding the tasks using the following metrics:
-  - Effectiveness
-  - Learnability
-  - Efficiency
-  - Usefulness
+     - Effectiveness
+     - Learnability
+     - Efficiency
+     - Usefulness
  7) The participant then was asked to select five product adjectives from a list of 18 product satisfaction cards that described their emotions.
  8) The participant then was asked to complete a confidential demographics survey. 
 
