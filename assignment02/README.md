@@ -31,7 +31,7 @@ The usability test was conducted in a quiet living room. The participant sat sid
 
 
 ## Test Materials
-The usability materials can be found [here](https://forms.gle/4yjvPWyq9nv8qimE8).
+The usability materials can be found [here](https://forms.gle/4yjvPWyq9nv8qimE8) as a visitor form, and [here](https://docs.google.com/forms/d/1rY4e_ShHIGfNzw48hRfINzz7imTIX1e7A272_e4IHkA/edit) as an editable survey.
 
 ## Video Link
 I completed two usability tests. #1 illuminated some issues, so I conducted #2 to try to improve those. 
