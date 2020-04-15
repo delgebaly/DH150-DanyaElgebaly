@@ -37,7 +37,7 @@ The usability materials can be found [here](https://forms.gle/4yjvPWyq9nv8qimE8)
 I completed two usability tests. #1 illuminated some issues, so I conducted #2 to try to improve those. 
 
 1) [UT Test 1](https://drive.google.com/file/d/1bRhBCiC1aij2geF_pG5FbMmuEM32337V/view?usp=sharing)
-2) [UT Test 2]
+2) [UT Test 2](https://drive.google.com/file/d/1MSfRHWQ_uMvJYJ3NVUmYnj8sHW6-mjBa/view?usp=sharing)
 
 ## Reflection
 
