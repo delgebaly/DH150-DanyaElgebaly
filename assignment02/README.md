@@ -1,8 +1,8 @@
 # DH150 Assignment02 - Danya Elgebaly
 
-## Pilot Usability Test
+# Pilot Usability Test
 
-### Introduction 
+## Introduction 
 
 The UCLA Library website is a crucial resource for current and prospective students, faculty, and staff at UCLA. It shares resources regarding various library features, locations, hours operation, as well as technical workshops, research guides, campus news, and so much more. It serves as a crucial access point to lots of useful educational information that is open to the public. 
 
@@ -14,7 +14,7 @@ As a result, I put these three heuristics to the test by conducting a usability 
 - Task #3 finally asked the participant to navigate through various research guides, find one about Government Information and find the definition of the word "Federal" from this guide.
 These tasks should illuminate some of the heuristic issues that arose during my evaluation, particularly Visibility of System Status, Flexibility and Efficiency of Use, and Consistency and Standards, respectively. 
 
-### Methodology
+## Methodology
 The usability test was conducted in a quiet living room. The participant sat side by side with the moderator. The usability test was conducted on a Macbook Pro Retina 2015, using Camtasia 2019. The procedure will go as follows:
 1) The moderator (me) introduces the usability test to the participant.
 2) The participant is asked to read and signed an informed consent form.
@@ -30,15 +30,15 @@ The usability test was conducted in a quiet living room. The participant sat sid
  8) The participant then was asked to complete a confidential demographics survey. 
 
 
-### Test Materials
+## Test Materials
 The usability materials can be found [here](https://forms.gle/4yjvPWyq9nv8qimE8).
 
-### Video Link
+## Video Link
 I completed two usability tests. #1 illuminated some issues, so I conducted #2 to try to improve those. 
 1: video link here
 2: video link here
 
-### Reflection
+## Reflection
 
 The reason I completed two usability tests is that the first one illuminated some issues within my Google form as well as my moderation skills. In addition, I did run into some technical issues that I could take care of when conducting a second test. The participant from the first test unfortunately had a time commitment, so was more rushed to finish the test in time. As a result, the test did not go very smoothly, but I still gained some valuable insights as to how usability can be improved. The participant was also not a Mac user and had increased usability difficulties completing the tasks as it was more difficult to navigate the interface.
 
