@@ -16,32 +16,32 @@ The primary limitation that can be improved with digital technology and potentia
 
 ### Step 02: Target Users
 #### - What are the characteristics of users? (ex. demographics, preference, expertise) 
+Demographic: UCLA campus community including students and faculty who use the UCLA Library and may refer to the website for certain information
+Preference: Students who go to the library more than other non-traditional study spaces and turn to the library for resources when needed
+Expertise: Users should be able to understand how to access the web, but no specific technical expertise is required for website navigation
+
+
 #### - Where would the users do that activity? (i.e., context of use)
+
+
+
 #### - What would the users do to complete that activity? (e.g., goal, operation, method, action)
 
 ### Step 03: Pick Research Methods
 #### Interview with direct / passive / participatory observation.
 #### Or something you learned on your own (refer to the field guideline by IDEO)
 
-### Step04: Plan to get into the context & write down the observation/ interview guide 
-#### - Decide where to visit
-#### - Decide what activities to observe/ what to ask to do
-#### - Decide how to interact with the users 
-#### - Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
-#### - Prepare the interview guide (examples + template here -- this guide is designed for search activity but you need to edit with your contextual questions according to the activity, not search activity, you want to learn from the users)
+### Step04: Interview & Materials
+#### Contextual Inquiry Guide
+Please find my script for the interview attached here. 
 
-### Step05: Conduct the Research
-#### - Visit the place
-#### - Meet/Observe the user(s)
-#### - Collect the data (record, pictures, answered_survey)
+#### Interview Data
+Please find the video recording of the interivew attached here.
+Please find the transcription attached here. 
 
-### Step06: Organize/Documentation
-#### In github (sub)repository assignment4, create one document (either README.md or .html)
-#### Describe your project design challenge + target user (step1+2)
-#### Describe your research methods and plan (step3)
-#### Provide a link to your interview/observation guide (step4) 
-#### Digitize your notes (scan/photo) and upload your data to github
-#### Provide a link to your representative data file(s) (step5)
-#### Provide a link to the transcript of your interview (or meaningful dialogues/ talk-aloud during observation, useful transcript tool here) 
-#### Write a reflection
+#### Interview Insights 
+
+### Reflection
+
+
 
