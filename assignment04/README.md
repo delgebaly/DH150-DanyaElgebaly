@@ -3,7 +3,7 @@
 
 ## Step 01: Specify the Main Design Challenge
 ### - What is the main activity your project would support the users?
-The main activity my project would support for its users are to search and find information effectively and efficiently. Because the UCLA Library essentially serves as a resource for students, the main activity its used for is to find necessary content about library-related events, resources, and relevant facts and information.
+The main activity my project would support for its users are to search and find information effectively and efficiently. Because the UCLA Library essentially serves as a resource for students, the main activity its used for is to find necessary content about library-related events, resources, and relevant facts and information rather than purely research related content.
 
 ### - What is the basic need involved for that activity? (reference)
 This activity serves the need of filling in content gaps, or providing relevant answers to questions users may have. In particular, needs may include searching for information such as relevant upcoming workshops and events, library hours, features of libraries and more.
@@ -22,10 +22,11 @@ Expertise: Users should be able to understand how to access the web, but no spec
 
 
 ### - Where would the users do that activity? (i.e., context of use)
-
-
+Users would most likely do this activity when they are on campus at UCLA and in need of certain information that is relevant to them in that moment. More specifically, the activity involves the search of information. Contexts could include students attempting to print papers on their way to class, trying to find out how to temporarily check out a laptop from the library, or simply to find out which library is open. Under all these circumstances, these are simple information-seeking tasks that users will go through on campus during their classes and study breaks. 
 
 ### - What would the users do to complete that activity? (e.g., goal, operation, method, action)
+
+To complete the activity, users would either go to the library specifically and ask someone for information, they could potentially call one of the libraries on campus to find out this information, or they could refer to the UCLA Library website and search for the information they need. 
 
 ## Step 03: Pick Research Methods
 ### Interview with direct / passive / participatory observation.
