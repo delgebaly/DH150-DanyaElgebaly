@@ -29,8 +29,8 @@ Users would most likely do this activity when they are on campus at UCLA and in 
 To complete the activity, users would either go to the library specifically and ask someone for information, they could potentially call one of the libraries on campus to find out this information, or they could refer to the UCLA Library website and search for the information they need. 
 
 ## Step 03: Pick Research Methods
-### Interview with direct / passive / participatory observation.
-### Or something you learned on your own (refer to the field guideline by IDEO)
+The main observation method I used for this task was direct participatory observation. I feel like this was the best way to truly understand the user's purpose and how they felt while going about the activity. In addition to asking them valuable questions regarding their motivations, it's valuable to hear them think out loud and sort of categorize their thoughts based on how the information could be better organized. In an ideal situation, I would definitely conduct field research with UCLA students in particular, but due to my current (quarantined) situation, I had to conduct this research with a parent who is not the typical user. As a result, direct participatory observation seems like the best approach for someone who isn't necessarily familiar with this website.
+
 
 ## Step04: Interview & Materials
 ### Contextual Inquiry Guide
