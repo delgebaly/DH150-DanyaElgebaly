@@ -34,12 +34,12 @@ The main observation method I used for this task was direct participatory observ
 
 ## Step04: Interview & Materials
 ### Contextual Inquiry Guide
-Please find my script for the interview attached [here](https://docs.google.com/document/d/1XnQB_YrDT-J4f2HIs7ltb9Ga0IHI5kiN1zfpip-U0zM/edit?usp=sharing). 
+- Please find my script for the interview attached [here](https://docs.google.com/document/d/1XnQB_YrDT-J4f2HIs7ltb9Ga0IHI5kiN1zfpip-U0zM/edit?usp=sharing). 
 
 ### Interview Data
-Please find the video recording of the interivew attached here.
-(Note: I had memory issues with my laptop and had to separate the interview into two parts, so it cuts in the middle.)
-Please find the transcription attached here. 
+- Please find the video recording of the interivew attached here. (Note: I had memory issues with my laptop and had to separate the interview into two parts, so it cuts in the middle.)
+
+- Please find the transcription attached here. 
 
 ### Interview Insights 
 - Interviewee mentions the value of clean, simple design during information searching.
