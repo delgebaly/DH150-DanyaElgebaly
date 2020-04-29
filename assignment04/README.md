@@ -41,8 +41,11 @@ Please find the video recording of the interivew attached here.
 Please find the transcription attached here. 
 
 ### Interview Insights 
+- Interviewee mentions the value of clean, simple design during information searching.
+- Interviewee completes task and does not necessarily have difficulty completing it, but believes that information could be organized better hierarchically. 
+- Interviewee mentions the Wikipedia model as good for finding straightforward information under a time constraint.
+- Interviewee prioritizes time efficiency over all other characteristics in completing a search task.
+- Interviewee believes that website should have concrete information, be easy to find, and have pages that effectively communicate what they are presenting.
 
 ## Reflection
-
-
-
+I enjoyed the interview process because I feel like it was much more free flowing and allowed me to gain insights from multiple perspectives. Interestingly enough, while I followed my interview script, I found myself steering away from it a little bit more to adhere to the casual tone of the interview, more of as a conversation than anything else. I gained a lot of good insights from my interviewee as well as for myself as an interviewer. The interviewee highlighted some of the most important parts of information searching as time-efficient, easy, and simple and really stressed the concept of clean and simple design throughout the course of the interview. As for myself, as an interviewer, I discovered that it would be helpful to broadedn my questions a little bit more and diversify them because I worried that the interviewee felt like they were repeating themselves. I also found it quite difficult to remain completely unbiased throughout the course of the interview, but tried to stick to the script. Nonetheless, I do feel like interviews are much less limiting than usability test because they allow interviewees to fully express their thoughts without any sort of constraints by question.
