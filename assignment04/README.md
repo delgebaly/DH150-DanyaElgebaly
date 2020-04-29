@@ -38,6 +38,7 @@ Please find my script for the interview attached [here](https://docs.google.com/
 
 ### Interview Data
 Please find the video recording of the interivew attached here.
+(Note: I had memory issues with my laptop and had to separate the interview into two parts, so it cuts in the middle.)
 Please find the transcription attached here. 
 
 ### Interview Insights 
