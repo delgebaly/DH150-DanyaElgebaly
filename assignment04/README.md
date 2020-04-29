@@ -39,7 +39,7 @@ The main observation method I used for this task was direct participatory observ
 ### Interview Data
 - Please find the video recording of the interivew attached [here](https://drive.google.com/file/d/1Y2P80Xu4SEMN9qk0hLcVtLaM0rWzg0SI/view?usp=sharing). (Note: I had memory issues with my laptop and had to separate the interview into two parts, so it cuts in the middle.)
 
-- Please find the transcription attached here. 
+- I had technical difficulties with the transcription tools, so I have included a summary of my most valuable interview insights below. 
 
 ### Interview Insights 
 - Interviewee mentions the value of clean, simple design during information searching.
