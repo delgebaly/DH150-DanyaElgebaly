@@ -20,8 +20,10 @@ All photos taken from:
 
 ![Persona2](Persona2.png)
 
-### Persona #3: 
+### Persona #3: Kiara Hall
+[Image Credit](https://uncf.org/the-latest/african-americans-and-college-education-by-the-numbers)
 
+![Persona3](Persona3.png)
 
 ## Scenarios + Journey Maps
 
