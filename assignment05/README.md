@@ -16,15 +16,21 @@ All photos taken from:
 
 ![Persona1](Persona1.png)
 
+![Lauren-Empathy](Lauren-Empathy.png)
+
 ### Persona #2: Thomas Ling
 [Image Credit](https://www.pinterest.com/pin/460282024414055425/)
 
 ![Persona2](Persona2.png)
 
+![Thomas-Empathy](Thomas-Empathy.png)
+
 ### Persona #3: Kiara Hall
 [Image Credit](https://uncf.org/the-latest/african-americans-and-college-education-by-the-numbers)
 
 ![Persona3](Persona3.png)
+
+![Kiara-Empathy](Kiara-Empathy.png)
 
 ## Scenarios + Journey Maps
 
