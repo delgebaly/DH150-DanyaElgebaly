@@ -1,15 +1,25 @@
 # DH150 Assignment05 - Danya Elgebaly
 # Persona + Scenarios
 
+## Purpose of UX Storytelling
+
+The main purpose of UX storytelling is to step out and gain a broader perspective of your users, their thoughts, actions, and frustrations with the technology you are evaluating. It allows you to develop characters as representations of your target market and truly delve into their characters and intentions in order to effectively evaluate their thinking process and their actions with respect to the technology. This is useful for design as it allows designers and researchers to better understand why they are pursuing a re-design and what the exact purpose of this may serve, specifically how it is impactful. 
+
 ## Features
 
-- Home Page Layout
-Hopefully to alleviate the ambiguity of "search"
-- Header Shortcuts
-- News & Events Page 
+Home Page Layout
+- Organize information better to improve information overload
+- Alleviate difficulties posed by term ambiguities such as "search"
 
-## Personas + Empathy Maps
-All photos taken from: 
+Header Shortcuts
+- To make information more accessible
+- Reduce time needed to find certain facts and eliminate "tediousness"
+
+News & Events Page 
+- Include more straightforward information
+- Less re-direction links and more condensed content
+
+## Personas + Empathy Maps 
 
 ### Persona #1: Lauren Smith
 [Image Credit](https://unsplash.com/s/photos/persona)
