@@ -5,7 +5,7 @@
 
 - Home Page Layout
 - Header Shortcuts
-- News & Events Page
+- News & Events Page 
 
 ## Personas + Empathy Maps
 
