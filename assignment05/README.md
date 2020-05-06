@@ -3,10 +3,15 @@
 
 ## Features
 
+- Home Page Layout
+- Header Shortcuts
+- News & Events Page
 
 ## Personas + Empathy Maps
 
-### Persona #1: 
+### Persona #1: Lauren Smith
+
+
 
 ### Persona #2: 
 
