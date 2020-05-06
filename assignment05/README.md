@@ -8,15 +8,17 @@
 - News & Events Page 
 
 ## Personas + Empathy Maps
-All photos taken from: https://unsplash.com/s/photos/persona
+All photos taken from: 
 
 ### Persona #1: Lauren Smith
-
+Image Credit: https://unsplash.com/s/photos/persona
 
 
 ### Persona #2: 
+Image Credit: https://www.pinterest.com/pin/460282024414055425/
 
 ### Persona #3: 
+
 
 ## Scenarios + Journey Maps
 
