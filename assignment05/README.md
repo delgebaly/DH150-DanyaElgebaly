@@ -8,6 +8,7 @@
 - News & Events Page 
 
 ## Personas + Empathy Maps
+All photos taken from: https://unsplash.com/s/photos/persona
 
 ### Persona #1: Lauren Smith
 
