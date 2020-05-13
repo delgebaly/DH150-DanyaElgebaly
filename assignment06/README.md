@@ -22,5 +22,13 @@ The personas that I chose to represent my users for this particular project are 
 
 ## Prototypes
 
+1) Wireframe + Wireflow #1: Library Homepage
+![Homepage](Homepage.png)
+
+2) Wireframe + Wireflow #2: Header Shortcuts
+![HeaderShortcuts](HeaderShortcuts.png)
+
+3) Wireframe + Wireflow #3: News + Events Page
+![NewsEvents](NewsEvents.png)
 
 ## Feedback + Reflection
