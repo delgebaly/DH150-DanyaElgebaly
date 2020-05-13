@@ -21,6 +21,8 @@ The personas that I chose to represent my users for this particular project are 
 - Allowing visitors to RSVP on the spot
 
 ## Prototypes
+Blue ink represents user interaction description and flow through interface.
+Green highlight represents user experience and verbal documentation. 
 
 1) Wireframe + Wireflow #1: Library Homepage
 ![Homepage](Homepage.png)
