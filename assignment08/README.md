@@ -3,6 +3,8 @@
 
 ## Summary: Prototyping Purpose & Process
 
+lalalalal
+
 ## Tasks Supported by the System
 
 1) Retrieve simple information from UCLA Library homepage. 
@@ -27,11 +29,15 @@ While the colors may seem like an odd mixture to users outside of the UCLA commu
 
 ## Impression Test
 
-![ScreenComment](CommentScreen.png)
+lalalalala
+
+![CommentScreen.png](CommentScreen.png) 
 
 ## Accessibility Check
 
-Screenshot of test
+lalalala
+
+![ColorTest1.png](ColorTest1.png) ![ColorTest2.png](ColorTest2.png)
 
 ## Interactive Prototype
 
