@@ -7,11 +7,13 @@
 
 ## Screen Designs
 
-Insert images of all screens in Figma
+![Screens](Screens.png)
 
 ## GUI Decision Making
 
 ## Wireflow
+
+![Wireflow](Wireflow.png)
 
 ## Impression Test
 
