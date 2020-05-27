@@ -27,7 +27,7 @@ While the colors may seem like an odd mixture to users outside of the UCLA commu
 
 ## Impression Test
 
-![Comment5](Comment5.png) ![Comment4](Comment4.png) ![Comment3](Comment3.png) ![Comment2](Comment2.png) ![Comment2](Comment2.png)
+![ScreenComment](CommentScreen.png)
 
 ## Accessibility Check
 
