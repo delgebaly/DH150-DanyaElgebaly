@@ -11,7 +11,7 @@ I chose to use Figma, an interactive prototyping tool used in the field of UI an
 
 ### Tasks Supported by the System
 
-Main Tasks
+#### Main Tasks
 1) Retrieve simple information from UCLA Library homepage. 
 2) Implement easy header shortcuts using drop-down menus for the "News & Events" and the "Locations" pages.
 3) Simplifying the "Events" page and allowing automatic RSVP.
