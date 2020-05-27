@@ -55,8 +55,9 @@ For my accessibility check, I decided to conduct two color contrast checks using
 The link to my Figma interactive prototype can be found [here.](https://www.figma.com/proto/v4vw2G8JcrGdeDeoxqeUu5/DH-150-Prototype?node-id=2%3A1&scaling=min-zoom) Make sure to adjust the page to fit your screen using the options button at the top right.
 
 ## Cognitive Walkthrough
+I learned a lot about the functionality of my prototype from the Cognitive Walkthrough. Specifically, some of the button features that I initially had were ambiguous throughout -- I would underline to signify the use of a button, but would also do it for emphasis which provided confusion to the user of whether something was clickable or not. In addition, the shapes of some of the buttons were confusing at first, so my peers suggested to maybe think of a more simplistic way to communicate the buttons. Many other visual components such as inconsistent font size and the lack of differences between size of titles and body text were noted and further adjusted later. 
 
-
+Evidence of my Cognitive Walkthrough is presented through my remote review feedback attached [here.](https://github.com/delgebaly/DH150-DanyaElgebaly/blob/master/assignment08/DH150-Remote-Review-Danya.pdf)
 
 ## Usability Testing
 
