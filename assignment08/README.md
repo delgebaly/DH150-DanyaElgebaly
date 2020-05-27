@@ -16,7 +16,7 @@ Main Tasks
 2) Implement easy header shortcuts using drop-down menus for the "News & Events" and the "Locations" pages.
 3) Simplifying the "Events" page and allowing automatic RSVP.
 
-Sub-Tasks
+#### Sub-Tasks
 4) Simple navigation between library pages to explore features, amenities, and collections.
 5) Added feature for each individual library page to include their "Least Crowded Time." 
 
