@@ -1,6 +1,4 @@
-# Final Project: Assignment08
-
-## Navigating UCLA Library - Danya Elgebaly
+# Navigating UCLA Library - Danya Elgebaly
 
 ## Introduction & Motivations
 
