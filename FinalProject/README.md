@@ -60,9 +60,9 @@ My high-fidelity prototype was created on Figma, which helped encompass a greate
 
 <p float="left">
   
-<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/FinalProject/Prototype.png" height="250px">
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/FinalProject/Prototype.png" height="240px">
 
-<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment08/Wireflow.png" height="220px">
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment08/Wireflow.png" height="240px">
 
 </p>
 
