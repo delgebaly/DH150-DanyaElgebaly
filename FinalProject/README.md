@@ -38,6 +38,19 @@ The personas that I chose to represent my users for this particular project are 
 ## Low-Fidelity Prototype
 The purpose of my low-fidelity prototype is to document simple features that I want to implement/adjust as well as further examine the flow between certain interactions as well as gain effective feedback based on these. This also allowed me to bring together my imaginary thoughts on the user interface to a blank document and further develop my design ideas on paper. While my low-fidelity prototype was quite different than my high-fidelity prototype, the feedback I received exposed some of the issues that I had initially overlooked, as its purpose analyzed interactions over visual features. Here are a couple of my wireframes and their respective wireflows:
 
+<div class="row">
+  <div class="column">
+    <img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment06/Homepage.png" height="300px">
+  </div>
+  <div class="column">
+    <img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment06/HeaderShortcuts.png" height="300px">
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
+
 <img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment06/Homepage.png" height="300px">
 
 <img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment06/HeaderShortcuts.png" height="300px">
