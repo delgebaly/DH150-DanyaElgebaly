@@ -56,7 +56,8 @@ My high-fidelity prototype was created on Figma, which helped encompass a greate
 2) Implementing Simple Header Shortcuts (News & Events / Locations)
 3) Re-organization of Information Gathering - Events Page
 
-Embed Prototype here
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fv4vw2G8JcrGdeDeoxqeUu5%2FDH-150-Prototype%3Fnode-id%3D2%253A1%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
+
 [Learn more...](https://delgebaly.github.io/DH150-DanyaElgebaly/assignment08/)
 
 ## Evaluation & Revision History
