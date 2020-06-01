@@ -40,11 +40,11 @@ The purpose of my low-fidelity prototype is to document simple features that I w
 
 <p float="left">
   
-<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment06/Homepage.png" height="300px">
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment06/Homepage.png" height="200px">
 
-<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment06/HeaderShortcuts.png" height="300px">
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment06/HeaderShortcuts.png" height="200px">
 
-<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment06/NewsEvents.png" height="300px">
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment06/NewsEvents.png" height="200px">
 
 </p>
 
