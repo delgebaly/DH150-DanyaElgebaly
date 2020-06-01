@@ -21,16 +21,15 @@ The personas that I chose to represent my users for this particular project are 
 
 - The first one is Lauren, a 2nd year undergraduate at UCLA who is trying to get involved in research and frequently goes to the Library website to check out what kinds of workshops and events are being held to help her gain better insights as to what she could pursue. 
 
-[Image here]
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment05/Persona1.png" height="300px">
 
 - Thomas is a 3rd year at UCLA who spends a lot of time at the Library, particularly during late hours and wants an easy way to find the perfect library for him to study at, which opens late and offers collaboration pods. 
 
-[Image here]
-
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment05/Persona2.png" height="300px">
 
 - Lastly, Kiara is a potential UCLA student who just conducts research about universities by going through their websites. She is considering attending UCLA, but wants to learn more about the facilities online.
 
-[Image here]
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment05/Persona3.png" height="300px">
 
 [Learn more...](https://delgebaly.github.io/DH150-DanyaElgebaly/assignment05/) 
 
