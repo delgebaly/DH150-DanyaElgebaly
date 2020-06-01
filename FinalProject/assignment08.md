@@ -1,7 +1,7 @@
 # Navigating UCLA Library - Danya Elgebaly
 
 ## Introduction & Motivations
-In this project, I will analyze and re-structure the design of the UCLA Library website to enhance the usability experience and thus, improve the search and navigation process. UCLA Library has plenty of resources to offer, both online and offline. Its website is, perhaps, the most valuable tool it has to present all of its information. However, because of its influx of resources and lack of efficient categorization, it becomes increasingly difficult for user to find what they need in a simple, and efficient time. As a result, I have conducted a full research process including analyzing usability heuristics, user research, storytelling, prototyping, and evaluating the product in order to better solve these issues. 
+In this project, I will analyze and re-structure the design of the UCLA Library website to enhance the usability experience and thus, improve the search and navigation process. UCLA Library has plenty of resources to offer, both online and offline. Its website is, perhaps, the most valuable tool it has to present all of its information. However, because of its influx of resources and lack of efficient categorization, it becomes increasingly difficult for user to find what they need in a simple, and efficient time. As a result, I have conducted a full research process including analyzing usability heuristics, user research, storytelling, prototyping, and evaluating the product in order to better solve these issues. [Expore the UCLA Library Website...](http://library.ucla.edu/)
 
 
 ## Design Statement
