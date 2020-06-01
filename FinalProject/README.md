@@ -44,11 +44,11 @@ The purpose of my low-fidelity prototype is to document simple features that I w
 
 <img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment06/HeaderShortcuts.png" height="300px">
 
-<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment06/NewsEvents" height="300px">
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment06/NewsEvents.png" height="300px">
 
 </p>
 
-[Learn more...](https://delgebaly.github.io/DH150-DanyaElgebaly/assignment06/NewsEvents.png" height="200px")
+[Learn more...](https://delgebaly.github.io/DH150-DanyaElgebaly/assignment06/)
 
 ## High-Fidelity Prototype
 My high-fidelity prototype was created on Figma, which helped encompass a greater portion of the design process. During this process, I emphasized the visual design aspect by maintaining UCLA's brand identity while also exploring the usability principles that I have analyzed by designing for three main tasks. These tasks have been evaluated to adhere to the needs of Lauren, Thomas, and Kiara:
