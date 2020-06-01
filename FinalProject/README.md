@@ -74,16 +74,16 @@ In the middle of my prototyping process, I conducted a Cognitive Walkthrough, Im
 ### Cognitive Walkthrough & Impression Test
 Both of these processes were very important as they exposed live comments and suggestions that users had made when interacting with my prototype. The main feedback that I received was the ambiguity of buttons. I initially had some text underlined for emphasis, and some were buttons. This made it difficult for the user to understand when something was clickable and when it was not. I, therefore, adjusted this for my final prototype. 
 
-<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment08/CommentScreen.png" height="300px">
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment08/CommentScreen.png" height="350px">
 
 ### Accessibility Audit
 I conducted accessibility checks for color contrast and discovered that the main color scheme that I used was appropriate for all users. The color scheme that I used aligned with UCLA's color branding, specifically its school colors of blue and gold.  The two main color schemes that I tested were Blue foreground and Gold background as well as White foreground and Blue background. The first scheme had one particular issue with acessibility under "normal text." As a result, I ensured that this color scheme was used under large or bolded text. The latter scheme passed the test successfully!
 
 <p float="left">
   
-<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment08/ColorTest1.png" height="350px">
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment08/ColorTest1.png" height="370px">
 
-<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment08/ColorTest2.png" height="350px">
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment08/ColorTest2.png" height="370px">
 
 </p>
 
