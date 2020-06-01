@@ -10,8 +10,9 @@ Often times, we adhere to searching certain websites for specialized information
 
 ## Competitor Analysis
 For my competitor analysis portion, I chose to conduct usability heuristics based on the design and usability of three different UCLA-affiliated websites. The purpose of this evaluation was to broaden my understanding of technical issues that pose significant barriers between users and technology. Once I refined my understanding of these areas of weakness, I conducted a usability test of the UCLA Library to better understand the human interaction. 
-[Learn more About Heuristic Evaluation...](https://delgebaly.github.io/DH150-DanyaElgebaly/assignment01)
-[Learn more About Usability Testing...](https://delgebaly.github.io/DH150-DanyaElgebaly/assignment02)
+
+- [Learn more About Heuristic Evaluation...](https://delgebaly.github.io/DH150-DanyaElgebaly/assignment01)
+- [Learn more About Usability Testing...](https://delgebaly.github.io/DH150-DanyaElgebaly/assignment02)
 
 
 ## User Research
@@ -37,6 +38,7 @@ The personas that I chose to represent my users for this particular project are 
 [Learn more...](https://delgebaly.github.io/DH150-DanyaElgebaly/assignment05/) 
 
 ## Wireframing & Graphic Design
+As for my wireframing and graphic design portion of this project, I was able to create both low and high fidelity prototypes in order to allow target users to interact with my proposed idea. They both ultimately serve different purposes regarding functionality and have been designed for that reason. As for my graphic design elements, I have chosen GUI components based on UCLA's branding in order to ensure that I am maintaining the same universal message to users as they visit the Library website. 
 
 ## Low-Fidelity Prototype
 The purpose of my low-fidelity prototype is to document simple features that I want to implement/adjust as well as further examine the flow between certain interactions as well as gain effective feedback based on these. This also allowed me to bring together my imaginary thoughts on the user interface to a blank document and further develop my design ideas on paper. While my low-fidelity prototype was quite different than my high-fidelity prototype, the feedback I received exposed some of the issues that I had initially overlooked, as its purpose analyzed interactions over visual features. Here are a couple of my wireframes and their respective wireflows:
