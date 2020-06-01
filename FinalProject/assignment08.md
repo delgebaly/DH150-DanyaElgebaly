@@ -7,12 +7,11 @@ In this project, I will analyze and re-structure the design of the UCLA Library 
 ## Design Statement
 Often times, we adhere to searching certain websites for specialized information in order to gain knowledge quickly and efficiently. Upon heavy use of the UCLA Library website during the online learning experience that came about during the COVID-19 pandemic, I started to grasp the concept of _information overload_ and frustrations that may arise from simpe website inefficiencies and cluttered content. With the increasing use of technology and the internet, it is important to be able to find information efficiently and without heavy load on the user. As a result, these issues have been proven useful to analyze and thus, address through the UX life cycle. 
 
-
 ## Competitor Analysis
 
 
 ## User Research
-In order to better grasp how users are interacting with the UCLA Library website what specific issues arise, I conducted both pilot usability tests and contextual inquiries. The usability tests allowed me to evaluate how users are specifically interacting with the website and provided me with valuable data that can be analyzed to further refine my research problem. Later, when conducting the contextual inquiry, I was able to gather important information regarding the usability values that the user holds and how they would like to see them addressed. (Learn more about it here) 
+In order to better grasp how users are interacting with the UCLA Library website what specific issues arise, I conducted both pilot usability tests and contextual inquiries. The usability tests allowed me to evaluate how users are specifically interacting with the website and provided me with valuable data that can be analyzed to further refine my research problem. Later, when conducting the contextual inquiry, I was able to gather important information regarding the usability values that the user holds and how they would like to see them addressed. [Learn more...](https://delgebaly.github.io/DH150-DanyaElgebaly/assignment04)
 
 ## UX Storytelling
 One significant part of the UX process is understanding your users and creating personas, fictional represenations of your potential users and their storyline in order to better holistically humanize and value the user-centered element of the design process. 
@@ -32,14 +31,14 @@ The personas that I chose to represent my users for this particular project are 
 
 [Image here]
 
-You can learn more about their storylines, personal thoughts & feelings as users (here). 
+[Learn more...](https://delgebaly.github.io/DH150-DanyaElgebaly/assignment05/) 
 
 ## Wireframing & Graphic Design
 
 ## Low-Fidelity Prototype
 The purpose of my low-fidelity prototype is to document simple features that I want to implement/adjust as well as further examine the flow between certain interactions as well as gain effective feedback based on these. This also allowed me to bring together my imaginary thoughts on the user interface to a blank document and further develop my design ideas on paper. While my low-fidelity prototype was quite different than my high-fidelity prototype, the feedback I received exposed some of the issues that I had initially overlooked, as its purpose analyzed interactions over visual features. Here are a couple of my wireframes and their respective wireflows:
 
-You can also read more about my low-fidelity prototyping process (here). 
+[Learn more...](https://delgebaly.github.io/DH150-DanyaElgebaly/assignment06/)
 
 ## High-Fidelity Prototype
 My high-fidelity prototype was created on Figma, which helped encompass a greater portion of the design process. During this process, I emphasized the visual design aspect by maintaining UCLA's brand identity while also exploring the usability principles that I have analyzed by designing for three main tasks. These tasks have been evaluated to adhere to the needs of Lauren, Thomas, and Kiara:
@@ -48,6 +47,7 @@ My high-fidelity prototype was created on Figma, which helped encompass a greate
 3) Re-organization of Information Gathering - Events Page
 
 Embed Prototype here
+[Learn more...](https://delgebaly.github.io/DH150-DanyaElgebaly/assignment08/)
 
 ## Evaluation & Revision History
 In the middle of my prototyping process, I conducted a Cognitive Walkthrough, Impression Test, Accessibiliity Audit, and Usability Test in order to explore the flaws of my prototype and how I could better improve and address the design issues. 
@@ -61,7 +61,7 @@ I conducted accessibility checks for color contrast and discovered that the main
 ### Usability Test
 Lastly, I consulted with a prospective UCLA Library user, a fellow Cognitive Science student at UCLA in order to conduct a usability test. The test provided me further insights for how I could resolve issues regarding what was intuitive in my design as well as some of the simple interaction problems arose as I used Figma for the first time. 
 
-Read more about my prototyping process (here.)
+[Read more about my prototyping and testing process...]((https://delgebaly.github.io/DH150-DanyaElgebaly/assignment08/)
 
 ## Pitch
 
