@@ -3,7 +3,7 @@
 ## Introduction & Motivations
 In this project, I will analyze and re-structure the design of the UCLA Library website to enhance the usability experience and thus, improve the search and navigation process. UCLA Library has plenty of resources to offer, both online and offline. Its website is, perhaps, the most valuable tool it has to present all of its information. However, because of its influx of resources and lack of efficient categorization, it becomes increasingly difficult for user to find what they need in a simple, and efficient time. As a result, I have conducted a full research process including analyzing usability heuristics, user research, storytelling, prototyping, and evaluating the product in order to better solve these issues. [Expore the UCLA Library Website...](http://library.ucla.edu/)
 
-<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment01/Lib-HomePage.png" height="300px">
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment01/Lib-HomePage.png" height="400px">
 
 ## Design Statement
 Often times, we adhere to searching certain websites for specialized information in order to gain knowledge quickly and efficiently. Upon heavy use of the UCLA Library website during the online learning experience that came about during the COVID-19 pandemic, I started to grasp the concept of _information overload_ and frustrations that may arise from simpe website inefficiencies and cluttered content. With the increasing use of technology and the internet, it is important to be able to find information efficiently and without heavy load on the user. As a result, these issues have been proven useful to analyze and thus, address through the UX life cycle. 
@@ -21,15 +21,15 @@ The personas that I chose to represent my users for this particular project are 
 
 - The first one is Lauren, a 2nd year undergraduate at UCLA who is trying to get involved in research and frequently goes to the Library website to check out what kinds of workshops and events are being held to help her gain better insights as to what she could pursue. 
 
-<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment05/Persona1.png" height="300px">
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment05/Persona1.png" height="400px">
 
 - Thomas is a 3rd year at UCLA who spends a lot of time at the Library, particularly during late hours and wants an easy way to find the perfect library for him to study at, which opens late and offers collaboration pods. 
 
-<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment05/Persona2.png" height="300px">
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment05/Persona2.png" height="400px">
 
 - Lastly, Kiara is a potential UCLA student who just conducts research about universities by going through their websites. She is considering attending UCLA, but wants to learn more about the facilities online.
 
-<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment05/Persona3.png" height="300px">
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment05/Persona3.png" height="400px">
 
 [Learn more...](https://delgebaly.github.io/DH150-DanyaElgebaly/assignment05/) 
 
@@ -37,6 +37,8 @@ The personas that I chose to represent my users for this particular project are 
 
 ## Low-Fidelity Prototype
 The purpose of my low-fidelity prototype is to document simple features that I want to implement/adjust as well as further examine the flow between certain interactions as well as gain effective feedback based on these. This also allowed me to bring together my imaginary thoughts on the user interface to a blank document and further develop my design ideas on paper. While my low-fidelity prototype was quite different than my high-fidelity prototype, the feedback I received exposed some of the issues that I had initially overlooked, as its purpose analyzed interactions over visual features. Here are a couple of my wireframes and their respective wireflows:
+
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment05/Persona3.png" height="400px">
 
 [Learn more...](https://delgebaly.github.io/DH150-DanyaElgebaly/assignment06/)
 
