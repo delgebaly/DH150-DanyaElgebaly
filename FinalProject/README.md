@@ -9,6 +9,9 @@ In this project, I will analyze and re-structure the design of the UCLA Library 
 Often times, we adhere to searching certain websites for specialized information in order to gain knowledge quickly and efficiently. Upon heavy use of the UCLA Library website during the online learning experience that came about during the COVID-19 pandemic, I started to grasp the concept of _information overload_ and frustrations that may arise from simpe website inefficiencies and cluttered content. With the increasing use of technology and the internet, it is important to be able to find information efficiently and without heavy load on the user. As a result, these issues have been proven useful to analyze and thus, address through the UX life cycle. 
 
 ## Competitor Analysis
+For my competitor analysis portion, I chose to conduct usability heuristics based on the design and usability of three different UCLA-affiliated websites. The purpose of this evaluation was to broaden my understanding of technical issues that pose significant barriers between users and technology. Once I refined my understanding of these areas of weakness, I conducted a usability test of the UCLA Library to better understand the human interaction. 
+[Learn more About Heuristic Evaluation...](https://delgebaly.github.io/DH150-DanyaElgebaly/assignment01)
+[Learn more About Usability Testing...](https://delgebaly.github.io/DH150-DanyaElgebaly/assignment02)
 
 
 ## User Research
