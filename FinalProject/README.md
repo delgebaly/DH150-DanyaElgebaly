@@ -52,9 +52,10 @@ The purpose of my low-fidelity prototype is to document simple features that I w
 
 ## High-Fidelity Prototype
 My high-fidelity prototype was created on Figma, which helped encompass a greater portion of the design process. During this process, I emphasized the visual design aspect by maintaining UCLA's brand identity while also exploring the usability principles that I have analyzed by designing for three main tasks. These tasks have been evaluated to adhere to the needs of Lauren, Thomas, and Kiara:
-1) Retrieving and Simplifying Homepage Content
-2) Implementing Simple Header Shortcuts (News & Events / Locations)
-3) Re-organization of Information Gathering - Events Page
+
+1. Retrieving and Simplifying Homepage Content
+2. Implementing Simple Header Shortcuts (News & Events / Locations)
+3. Re-organization of Information Gathering - Events Page
 
 [Live Figma Prototype](https://www.figma.com/proto/v4vw2G8JcrGdeDeoxqeUu5/DH-150-Prototype?node-id=2%3A1&scaling=min-zoom)
 
