@@ -81,9 +81,9 @@ I conducted accessibility checks for color contrast and discovered that the main
 
 <p float="left">
   
-<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment08/ColorTest1.png" height="370px">
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment08/ColorTest1.png" height="390px">
 
-<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment08/ColorTest2.png" height="370px">
+<img src="https://delgebaly.github.io/DH150-DanyaElgebaly/assignment08/ColorTest2.png" height="390px">
 
 </p>
 
