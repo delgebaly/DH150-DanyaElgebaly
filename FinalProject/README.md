@@ -93,5 +93,8 @@ Lastly, I consulted with a prospective UCLA Library user, a fellow Cognitive Sci
 
 ## Pitch
 
+[![Pitch Video](http://img.youtube.com/vi/NAeOhwmWDYY/0.jpg)](https://www.youtube.com/embed/NAeOhwmWDYY)
+
+
 ## Conclusion
 I learned so much valuable information from pursuing this project, specifically how valuable the user is in user-centred design. To say that design is a process is an understatement after I truly discovered what it means to be "iterative." Throughout this project, I started to understand the value of user research and understanding what the user really wants because the designer doesn't see things the same way the user does. In addition, it's always very valuable to refer back to user research in order to specifically design for that purpose. Often times, I found myself wanting to re-design the entire website during the prototyping process, but held myself back in order to truly improve usability of the tasks themselves. Nonetheless, it was a very valuable process and I learned a lot about design, research, and implementation of UI and UX. 
